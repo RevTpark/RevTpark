@@ -1,5 +1,14 @@
-# Hi there, I'm Tanishq Parkar.<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-## Tech Stack
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hi there, I'm Tanishq Parkar.
+
+## 🤔 About Me
+- ❤ Python Enthusiast and completely in love with the langauge!
+- 📚 Currently pursing undergraduate degree in Computer Engineering.
+- 📈 Growing into Backend Technologies.
+- 💯 I make projects just to challenge myself and always try to learn something from every project.
+- 🔮 In Future, I also want to get into AI/ML.
+
+
+## 💻 Tech Stack
 ### Backend
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
@@ -33,12 +42,12 @@
 ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![VsCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-## Connect With Me
+## 🤝 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishq-parkar/)
 
-## Github Stats
+## ⭐ Github Stats
 ![Tanishq's GitHub stats](https://github-readme-stats.vercel.app/api?username=revTpark&show_icons=true&theme=radical)
 
-## Most Used Languages
+## 🔥 Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=revTpark&layout=compact)](https://github.com/revTpark)
 
