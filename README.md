@@ -1,3 +1,5 @@
+<img src="https://gifimage.net/wp-content/uploads/2017/10/matrix-code-animated-gif-4.gif" width="100%" height="200px">
+  
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hi there, I'm Tanishq Parkar.
 
 ## 🤔 About Me
