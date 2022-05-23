@@ -1,7 +1,3 @@
-<div>
-  <img src="https://gifimage.net/wp-content/uploads/2020/03/animate-matrix-gif-.gif">
-  <img src="https://gifimage.net/wp-content/uploads/2020/03/animate-matrix-gif-.gif">
-</div>
 
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hi there, I'm Tanishq Parkar.
 
