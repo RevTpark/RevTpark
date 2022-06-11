@@ -1,5 +1,5 @@
 
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hi there, I'm Tanishq Parkar.
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">Hi there, I'm Tanishq Parkar.
 
 ## 🤔 About Me
 - ❤ Python Enthusiast and completely in love with the langauge!
