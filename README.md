@@ -54,7 +54,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishq-parkar/)
 
 ## ⭐ Github Stats
-![Tanishq's GitHub stats](https://github-readme-stats.vercel.app/api?username=revTpark&show_icons=true&theme=radical)
+![Tanishq's GitHub stats](https://github-readme-stats.vercel.app/api?username=revTpark&show_icons=true&theme=radical&count_private=true)
 
 ## 🔥 Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=revTpark&layout=compact)](https://github.com/revTpark)
