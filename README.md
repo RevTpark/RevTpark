@@ -58,7 +58,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=revTpark&theme=tokyonight_duo)
 
 ## 🔥 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=revTpark&layout=compact)](https://github.com/revTpark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=revTpark&layout=compact&hide=makefile,llvm)](https://github.com/revTpark)
 
 
 ## Contributions
