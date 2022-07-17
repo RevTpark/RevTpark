@@ -1,3 +1,6 @@
+<div align="center">
+  <img src=https://user-images.githubusercontent.com/78678620/179418648-f2b4e450-0814-40d7-96b4-6ffcec0095a9.gif width=600 height=300></img>
+</div>
 
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">Hi there, I'm Tanishq Parkar.
 
