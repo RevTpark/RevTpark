@@ -5,10 +5,10 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">Hi there, I'm Tanishq Parkar.
 
 ## 🤔 About Me
-- ❤ Python Enthusiast and completely in love with the langauge!
-- 📚 Currently pursing undergraduate degree in Computer Engineering.
+- ❤ Passionate Software Developer with an insatiable love for coding.
+- 📚  Pursuing an undergraduate degree in Computer Engineering.
 - 📈 Growing into Backend Technologies.
-- 💯 I make projects just to challenge myself and always try to learn something from every project.
+- 💯 Driven by the thrill of challenges, I take on projects to continuously expand my skills and knowledge.
 - 🔮 In Future, I also want to get into AI/ML.
 
 
