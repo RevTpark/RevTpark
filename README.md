@@ -6,7 +6,7 @@
 
 ## 🤔 About Me
 - ❤ Passionate Software Developer with an insatiable love for coding.
-- 📚  Pursuing an undergraduate degree in Computer Engineering.
+- 📚  Pursuing a graduate degree in Computer Engineering.
 - 📈 Growing into Backend Technologies.
 - 💯 Driven by the thrill of challenges, I take on projects to continuously expand my skills and knowledge.
 - 🔮 In Future, I also want to get into AI/ML.
