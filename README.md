@@ -1,11 +1,8 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">Hi there, I'm Tanishq Parkar.
 
 ## 🤔 About Me
-- ❤ Passionate Software Developer with an insatiable love for coding.
-- 📚  Pursuing a graduate degree in Computer Engineering.
-- 📈 Growing into Backend Technologies.
-- 💯 Driven by the thrill of challenges, I take on projects to continuously expand my skills and knowledge.
-- 🔮 In Future, I also want to get into AI/ML.
+- ❤ Your avg software dev junkie
+- 💯 I take on projects that tickle my brain a little more.
 
 
 ## 💻 Tech Stack
