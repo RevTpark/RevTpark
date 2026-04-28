@@ -1,8 +1,6 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">Hi there, I'm Tanishq Parkar.
 
-## 🤔 About Me
-- ❤ Your avg software dev junkie
-- 💯 I take on projects that tickle my brain a little more.
+Your avg software dev junkie. I take on projects that tickle my brain a little more.
 
 
 ## 💻 Tech Stack
